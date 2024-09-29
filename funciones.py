@@ -146,6 +146,7 @@ if opciones == "Inicio":
         Para comenzar a probarlos, dirigete a la barra lateral izquierda o haz clic en el boton de abajo para abrir uno aleatoriamente.
     """)
     st.write("Esperamos que disfrutes tu experiencia con nuestra aplicacion!")
+    st.write("PD: Aun estoy en desarrollo de la ejeccion en el inicio. Si deseas probar un programa dirirgete al menu. :)")
     st.markdown(
     """
     <style>
